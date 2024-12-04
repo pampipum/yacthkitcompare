@@ -15,6 +15,20 @@
       "when": 1717685975655,
       "tag": "0001_luxuriant_crystal",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1733316819504,
+      "tag": "0002_magical_rawhide_kid",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1733316922095,
+      "tag": "0003_crazy_doctor_strange",
+      "breakpoints": true
     }
   ]
 }
